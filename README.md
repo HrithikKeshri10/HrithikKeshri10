@@ -1,28 +1,21 @@
-<h1 align="center">Hi 👋, I'm Hrithik</h1>
-<h3 align="center">A passionate smart contract developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrithikk28&label=Profile%20views&color=0e75b6&style=flat" alt="hrithikk28" /> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hrithik28/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/hrithikstwt) 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrithikk28" alt="hrithikk28" /></a> </p>
+# 💻 Tech Stack:
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hrithikk28&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hrithikk28&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hrithikk28&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left"> <a href="https://twitter.com/hrithikstwt" target="blank"><img src="https://img.shields.io/twitter/follow/hrithikstwt?logo=twitter&style=for-the-badge" alt="hrithikstwt" /></a> </p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 🌱 I’m currently learning **Smart Contract development**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=hrithikk28&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 💬 Ask me about **Blockchain, Smart contracts, Solidity, Hardhat, Ethers.js**
+---
+[![](https://visitcount.itsvg.in/api?id=hrithikk28&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 📫 How to reach me **hkeshri028@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hrithikstwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hrithikstwt" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrithikk28&show_icons=true&locale=en&layout=compact" alt="hrithikk28" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrithikk28&show_icons=true&locale=en" alt="hrithikk28" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrithikk28&" alt="hrithikk28" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
