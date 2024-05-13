@@ -15,6 +15,8 @@
   />
 </picture>
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kakarrxt&label=Profile%20views&color=0e75b6&style=flat" alt="kakarrxt" /> </p>
+
 <br>
 <h1 align="center">Hi 👋, I'm Hrithik </h1>
 
