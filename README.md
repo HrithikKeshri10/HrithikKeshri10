@@ -15,9 +15,9 @@
   />
 </picture>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrithikk28&label=Profile%20views&color=0e75b6&style=flat" alt="kakarrxt" /> </p>
 
 <br>
+
 <h1 align="center">Hi 👋, I'm Hrithik </h1>
 
 <p align="center">
@@ -35,6 +35,8 @@
 - 🌱 I’m currently learning **Smart Contract Development** 
 
 - 📫 How to reach me : **hkeshri028@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrithikk28&label=Profile%20views&color=0e75b6&style=flat" alt="kakarrxt" /> </p>
 
 <br>
 
