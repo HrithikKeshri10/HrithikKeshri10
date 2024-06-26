@@ -44,7 +44,7 @@
 <br>
 <span align='left'>
 
-<a href="https://www.linkedin.com/in/hrithik28/" target="_blank">
+<a href="https://www.linkedin.com/in/1HrithikKeshri/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Hrithik-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
