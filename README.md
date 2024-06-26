@@ -34,7 +34,7 @@
 
 - 🌱 I’m currently learning **Smart Contract Development** 
 
-- 📫 How to reach me : **hkeshri028@gmail.com**
+- 📫 How to reach me : **1hrithikkeshri@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrithikk28&label=Profile%20views&color=0e75b6&style=flat" alt="kakarrxt" /> </p>
 
@@ -56,7 +56,7 @@
 
 <br>
 
-<a href="mailto:hkeshri028@gmail.com" target="_blank">
+<a href="mailto:1hrithikkeshri@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Hrithik-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 	
