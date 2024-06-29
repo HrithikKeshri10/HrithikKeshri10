@@ -34,9 +34,9 @@
 
 - 🌱 I’m currently learning **Smart Contract Development** 
 
-- 📫 How to reach me : **1hrithikkeshri@gmail.com**
+- 📫 How to reach me : **hrithikkeshri10@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrithikk28&label=Profile%20views&color=0e75b6&style=flat" alt="kakarrxt" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HrithikKeshri10&label=Profile%20views&color=0e75b6&style=flat" alt="kakarrxt" /> </p>
 
 <br>
 
@@ -44,7 +44,7 @@
 <br>
 <span align='left'>
 
-<a href="https://www.linkedin.com/in/1HrithikKeshri/" target="_blank">
+<a href="https://www.linkedin.com/in/HrithikKeshri10/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Hrithik-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
@@ -56,7 +56,7 @@
 
 <br>
 
-<a href="mailto:1hrithikkeshri@gmail.com" target="_blank">
+<a href="mailto:hrithikkeshri10@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Hrithik-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 	
@@ -102,8 +102,8 @@
 <div align="center">
 
 <a href="https://github.com/hrithikk28/">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrithikk28&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrithikk28&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="hrithikk28"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HrithikKeshri10&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HrithikKeshri10&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="HrithikKeshri10"/>
 
 </a>
 </div>
